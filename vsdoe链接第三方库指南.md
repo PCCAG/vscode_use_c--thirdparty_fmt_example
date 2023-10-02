@@ -53,6 +53,8 @@ $(CC) $^ -o $@ $(LDFLAGS)
 
 **一个完整的库使用包括头文件和库文件**
 
+以链接fmt库为例
+
 #### 库文件路径:
 
 C:\Users\S\Desktop\c++libraryUSE\test_fmt\library
@@ -69,7 +71,7 @@ C:\Users\S\Desktop\c++libraryUSE\test_fmt\library\libfmt.a
 
 C:\Users\S\Desktop\c++libraryUSE\test_fmt\library\fmt
 
-**总的目录结构如下:** 
+**总的目录结构如下:**
 
 ![1696244016710](image/vsdoe链接第三方库指南/1696244016710.png)
 
